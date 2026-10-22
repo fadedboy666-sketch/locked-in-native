@@ -1,4 +1,4 @@
-// AppBlockerScreen.js
+git add .AppBlockerScreen// AppBlockerScreen.js
 // Real App Blocker for Locked In — Android.
 // Requires: npx expo install expo-app-blocker
 // Then add "expo-app-blocker" to the "plugins" array in app.json and rebuild
